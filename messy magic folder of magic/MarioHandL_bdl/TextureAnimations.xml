@@ -1,0 +1,31 @@
+<?xml version=1.0 encoding=utf-8?>
+
+<TextureAnimation>
+
+	<Textures>
+</Textures>
+
+	<Materials>
+#
+% hand_Hand_v
+#
+% hand_Hand_v(2)
+#
+% hand_Hand_v(3)
+#
+% hand_Hand_v(4)
+#
+% hand_Hand_v(5)
+#
+% hand_Hand_v(6)
+#
+% hand_Hand_v(7)
+#
+% hand_Hand_v(8)
+</Materials>
+
+	<Animations>
+
+	</Animations>
+
+</TextureAnimation>

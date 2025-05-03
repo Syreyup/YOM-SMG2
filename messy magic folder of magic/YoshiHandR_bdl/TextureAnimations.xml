@@ -1,0 +1,23 @@
+<?xml version=1.0 encoding=utf-8?>
+
+<TextureAnimation>
+
+	<Textures>
+#
+% EnvYoshiHilight
+</Textures>
+
+	<Materials>
+#
+% YoshiHand_v
+#
+% YoshiHand_v(2)
+#
+% YoshiHand_v(3)
+</Materials>
+
+	<Animations>
+
+	</Animations>
+
+</TextureAnimation>

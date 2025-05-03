@@ -1,0 +1,63 @@
+<?xml version=1.0 encoding=utf-8?>
+
+<TextureAnimation>
+
+	<Textures>
+#
+% YoshiEye.0
+#
+% YoshiEye.1
+#
+% YoshiGreen
+#
+% YoshiHand
+#
+% YoshiShoes
+#
+% YoshiWhite
+#
+% YoshiWhite
+#
+% EnvYoshiHilight
+#
+% YoshiShoes
+#
+% YoshiGreen
+#
+% YoshiEye.0
+#
+% YoshiEtc
+#
+% YoshiHand
+</Textures>
+
+	<Materials>
+#
+% YoshiHand_v(2)
+#
+% YoshiEtc_v
+#
+% YoshiEye0L_v
+#
+% YoshiEye0R_v
+#
+% YoshiEye1L_v
+#
+% YoshiEye1R_v
+#
+% YoshiGreen_v
+#
+% YoshiGreen_v(2)
+#
+% YoshiShoes_v
+#
+% YoshiWhite_v
+#
+% YoshiHand_v
+</Materials>
+
+	<Animations>
+
+	</Animations>
+
+</TextureAnimation>
