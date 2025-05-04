@@ -16,5 +16,10 @@
         <!-- Vanilla SMG2 -->
 		<folder external="ObjectData" disc="/ObjectData" create="true"/>
 
+<!-- Show Crash Log -->
+<memory offset="0x804B7D90" value="60000000"/>
+<memory offset="0x804B7E54" value="60000000"/>
+<memory offset="0x805B66B4" value="60000000"/>
+
 	</patch>
 </wiidisc>
