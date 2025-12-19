@@ -16,28 +16,48 @@
 #
 % YoshiWhite
 #
+% YoshiWhite
+#
 % EnvYoshiHilight
+#
+% YoshiShoes
+#
+% YoshiGreen
+#
+% YoshiEye.0
+#
+% YoshiEtc
+#
+% YoshiHand
 </Textures>
 
 	<Materials>
-#
-% YoshiEye0R_v
-#
-% YoshiHand_v(2)
 #
 % YoshiEtc_v
 #
 % YoshiEye0L_v
 #
+% YoshiEye0R_v
+#
+% YoshiEye1L_v
+#
+% YoshiEye1R_v
+#
 % YoshiGreen_v
 #
-% YoshiGreen_v(2)
+% YoshiHand_v
 #
 % YoshiShoes_v
 #
 % YoshiWhite_v
 #
-% YoshiHand_v
+% YoshiGreen_v(2)
+#
+% YoshiGreen_v(3)
+#
+% YoshiGreen_v(4)
+#
+% YoshiHand_v(2)
 </Materials>
 
 	<Animations>
